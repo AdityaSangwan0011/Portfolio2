@@ -31,8 +31,9 @@ SEO & Analytics: Integrated Vercel Analytics to track user engagement and traffi
 
 🚀 **Getting Started**
 Clone the repo:
-```Bash
-    git clone https://github.com/your-username/personal-portfolio.git
+
+````Bash
+    git clone https://portfolio-2-psi-mocha.vercel.app/
 
 **Install dependencies:**
    ```Bash
@@ -45,6 +46,8 @@ Build for production:
 
 Bash
 npm run build
+
+````
 
 ```
 

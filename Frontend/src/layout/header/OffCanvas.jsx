@@ -26,7 +26,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }) {
               </Link>
             </div>
             <div className="mb-3">
-              <Link to="mailto:mritunjays447@gmail.com">
+              <Link to="mailto:adityasangwan4u@gmail.com">
                 <span className="text-400 fs-5">Email</span>
                 <p className="mb-0">adityasangwan4u@gmail.com</p>
               </Link>

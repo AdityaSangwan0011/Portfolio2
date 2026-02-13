@@ -10,7 +10,7 @@ app.use(
     origin: "*", // or specify your frontend URL for security
     methods: ["GET", "POST", "OPTIONS"],
     allowedHeaders: ["Content-Type"],
-  })
+  }),
 );
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -67,7 +67,7 @@ app.get("/", (req, res) => {
       <div class="container">
         <h1>📨 Email API by Aditya Sangwan</h1>
         <p>This backend is working perfectly!<br/>Use <code>POST /send-email</code> to send contact form data.</p>
-        <a href="https://mritunjay-singh.netlify.app/" target="_blank">Visit My Portfolio</a>
+        <a href="https://portfolio-2-psi-mocha.vercel.app/" target="_blank">Visit My Portfolio</a>
       </div>
     </body>
     </html>

@@ -37,7 +37,7 @@ export default function Header() {
                 >
                   <img
                     src="assets/imgs/home-page-2/template/favicon.svg"
-                    alt="mritunjay"
+                    alt="Aditya"
                   />
                   <span className="fs-4 ms-2">Aditya Sangwan</span>
                 </Link>
@@ -82,10 +82,10 @@ export default function Header() {
                 </div>
                 <div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
                   <div className="d-md-flex d-none gap-3">
-                    <Link to="https://linkedin.com/in/mritunjay-singh-022333282/">
+                    <Link to="www.linkedin.com/in/aditya-sangwan-b37831370">
                       <i className="ri-linkedin-fill fs-18" />
                     </Link>
-                    <Link to="https://github.com/MRITUNJAY-SINGHH">
+                    <Link to="https://github.com/AdityaSangwan0011">
                       <i className="ri-github-fill fs-18" />
                     </Link>
                   </div>

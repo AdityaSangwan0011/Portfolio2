@@ -172,9 +172,9 @@ export default function Education() {
                           </span>
                           <p className="text-dark">
                             Built scalable and responsive web applications using
-                            the MERN stack (MongoDB, Express.js, React.js,
-                            Node.js), ensuring seamless user experiences and
-                            efficient backend systems.
+                            the MERN stack (Express.js, React.js, Node.js),
+                            ensuring seamless user experiences and efficient
+                            backend systems.
                           </p>
                         </div>
                       </div>
