@@ -34,7 +34,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }) {
 
             <div className="mb-3">
               <span className="text-400 fs-5">Address</span>
-              <p className="mb-0">Chipyana Buzurg, Ghaziabad</p>
+              <p className="mb-0">sector 95, Gurgaon</p>
             </div>
           </div>
           <div className="contact-list">

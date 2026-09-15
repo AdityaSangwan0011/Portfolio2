@@ -141,7 +141,7 @@ export default function Home() {
                       </div>
                     </div>
                     <Link
-                      to="/assets/Resume.pdf"
+                      to="/assets/Aditya.docx"
                       className="btn me-2 text-300 ps-0 mt-4"
                       target="_blank"
                       rel="noopener noreferrer"

@@ -90,7 +90,7 @@ export default function Education() {
                             <p className="text-dark">
                               Building and showcasing full-stack, JavaScript,
                               and React projects while continuously improving
-                              coding skills and version control practices.
+                              coding skills and version control practices
                               <strong>
                                 , improving tools and learning through
                                 real-world code.

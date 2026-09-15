@@ -34,12 +34,12 @@ export default function Contact() {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(values),
-        }
+        },
       );
 
       if (response.ok) {
         setStatus(
-          `✅ Thanks for contacting me, ${values.name}! I’ll respond shortly.`
+          `✅ Thanks for contacting me, ${values.name}! I’ll respond shortly.`,
         );
         resetForm();
       } else {
@@ -114,7 +114,7 @@ export default function Contact() {
                               onChange={(e) => {
                                 const onlyNums = e.target.value.replace(
                                   /\D/g,
-                                  ""
+                                  "",
                                 );
                                 form.setFieldValue("phone", onlyNums);
                               }}
@@ -274,7 +274,7 @@ export default function Contact() {
             <ContactItem
               icon="ri-map-2-fill"
               label="Address"
-              value="Chipyana Buzurg, ghaziabad"
+              value="sector 95, Gurgaon"
             />
           </div>
         </div>
